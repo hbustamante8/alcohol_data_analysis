@@ -1,6 +1,6 @@
 # alcohol_analysis
 
-##Purpose of this analysis.
+## Purpose of this analysis.
 
 
 The purpose of this analysis is to run some exploratory analysis on a dataset from kaggle that contains a variety of features related for students in a maths and portugese course. The features include but are not limited to age,studytime, weekly alcohol consumption, daily alcohol comsumption, and grades in each period.
