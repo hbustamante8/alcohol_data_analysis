@@ -10,5 +10,7 @@ The purpose of this analysis is to run some exploratory analysis on a dataset fr
 First goal in my analysis is to run exploratory analysis on both the math and portugese data sets to find out the null values, shape,  and correlation between features.
 
 
-Second goal is to apply Random Forest Classifier technique on the data set to be able to predict the final grade score in the class for math and portuguese students. 
+Second goal is to apply Random Forest Classifier technique on the data set to be able to evaluate the prediction model of  the final grade score in the class for math and portuguese students. From there, other methods will be explored to see if the model can be imporoved at all.
+
+
 
